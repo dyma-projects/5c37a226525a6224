@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Exercice3EnfantComponent } from './exercice3-enfant/exercice3-enfant.component';
 
 @Component({
   selector: 'app-exercice3',
